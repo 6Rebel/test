@@ -6,3 +6,4 @@ git remote add origin "add url by shift+insert"
 
 git push origin master
 
+game
