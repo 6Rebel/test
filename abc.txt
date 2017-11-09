@@ -1,1 +1,8 @@
 hello world!
+
+ocul.in/gitcom
+
+git remote add origin "add url by shift+insert"
+
+git push origin master
+
